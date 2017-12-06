@@ -1,5 +1,8 @@
 # Random DirectX 11 C++ 
-TODO
+Just some random code that can be used on 2D
+
+
+#Classes
 
 # Camera
 basic 2D camera with scale, rotate
