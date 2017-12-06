@@ -66,12 +66,12 @@ void GameSprite::Animation(int row, int col, float* currentFrame)
 {
 	int r = 0;
 
-	if (*currentFrame >= col)
+	if (*currentFrame >= col) //if our frame exceeds the sheet width, goto next line first frame
 	{
 		*currentFrame = 0;
 		sourceOut_.y = sourceOut_.y + source_.w;
 		r++;
-		if (r >= row)
+		if (r >= row) //if it exceeds the sheet height, return to first frame
 		{
 			r = 0;
 			sourceOut_.y = source_.z;
