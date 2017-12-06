@@ -2,7 +2,7 @@
 Just some random code that can be used on 2D
 
 
-#Classes
+# Classes
 
 # Camera
 basic 2D camera with scale, rotate
