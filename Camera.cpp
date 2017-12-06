@@ -38,7 +38,7 @@ XMMATRIX Camera::GetTransformation()
 
 	return camView*scale;
 }
-//This return a vector that contain the target of the camera cpordinates
+//This return a vector that contain the target of the camera coordinates
 XMVECTOR Camera::Target()
 {
 	return XMVectorSet(mPosition.x, mPosition.y, 0.0f, 0.0f);
