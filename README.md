@@ -4,10 +4,8 @@ Just some random code that can be used on 2D
 
 # Classes
 
-#Camera
-basic 2D camera with scale, rotate
+Camera - basic 2D camera with scale, rotate
 
-#GameSprite
-sprites animation
+GameSprite - sprites animation in a sheet
 
 #TODO
