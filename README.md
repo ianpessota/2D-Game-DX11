@@ -1,5 +1,10 @@
-# Camera
-DirectX 11 C++ 
-2D basic camera code
+# Random DirectX 11 C++ 
+TODO
 
-just testing stuff
+# Camera
+basic 2D camera with scale, rotate
+
+# GameSprite
+sprites animation
+
+#TODO
