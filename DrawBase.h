@@ -1,7 +1,4 @@
-/**********************************************************************
-AAE DX Framework by Ian Pessota
-Class DrawBase
-Set basics directx to render images using shaders
+/*Set basics directx to render images using shaders
 ***********************************************************************/
 #ifndef _DRAW_BASE_H_
 #define _DRAW_BASE_H_
