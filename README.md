@@ -1,4 +1,7 @@
 # Random DirectX 11 C++ 
+
+Learning stuff
+
 Just some random code that can be used on 2D
 
 
